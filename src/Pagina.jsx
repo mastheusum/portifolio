@@ -3,7 +3,7 @@ import React from 'react'
 export default function Pagina() {
   return (
     <main>
-      <img src="./picture.jpg" alt="foto" width="128" />
+      {/* <img src="./picture.jpg" alt="foto" width="128" /> */}
       <div> 
           <b> Victor Matheus </b> | 00 anos | Desenvolvedor Web
       </div> 
